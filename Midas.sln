@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midas", "Midas\Midas.csproj", "{AE285973-9526-4E9F-824B-C745EE0E3720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE285973-9526-4E9F-824B-C745EE0E3720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE285973-9526-4E9F-824B-C745EE0E3720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE285973-9526-4E9F-824B-C745EE0E3720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE285973-9526-4E9F-824B-C745EE0E3720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3F5FC5-A474-4EB9-BB9C-D7D2F0A12563}
+	EndGlobalSection
+EndGlobal
