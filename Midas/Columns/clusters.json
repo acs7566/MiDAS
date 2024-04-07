@@ -1,0 +1,56 @@
+[
+    {
+        "Field": "name",
+        "Title": "Name",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "creator",
+        "Title": "Creator",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "comment",
+        "Title": "Comment",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "creationTime",
+        "Title": "Creation Time",
+        "Format": "{0:D}",
+        "filter": "date"
+    },
+    {
+        "Field": "eee",
+        "Title": "eee #",
+        "Format": null,
+        "filter": "numeric"
+    },
+    {
+        "Field": "sss",
+        "Title": "sss #",
+        "Format": null,
+        "filter": "numeric"
+    },
+    {
+        "Field": "hhh",
+        "Title": "hhh #",
+        "Format": null,
+        "filter": "numeric"
+    },
+    {
+        "Field": "ggg",
+        "Title": "ggg #",
+        "Format": null,
+        "filter": "numeric"
+    },
+    {
+        "Field": "ett",
+        "Title": "ett #",
+        "Format": null,
+        "filter": "numeric"
+    }
+]

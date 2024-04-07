@@ -1,0 +1,44 @@
+[
+  {
+      "Field": "id",
+      "Title": "ID",
+      "Format": null,
+      "filter": "numeric"
+  },
+  {
+      "Field": "name",
+      "Title": "Name",
+      "Format": null,
+      "filter": "text"
+  },
+  {
+      "Field": "creationTime",
+      "Title": "Creation Time",
+      "Format": "{0:D}",
+      "filter": "date"
+  },
+  {
+      "Field": "lastModifiedTime",
+      "Title": "Last Modification Time",
+      "Format": "{0:D}",
+      "filter": "date"
+  },
+  {
+      "Field": "finished",
+      "Title": "Finished",
+      "Format": null,
+      "filter": null
+  },
+  {
+      "Field": "mode",
+      "Title": "Mode",
+      "Format": null,
+      "filter": "text"
+  },
+  {
+      "Field": "deletable",
+      "Title": "Deletable",
+      "Format": null,
+      "filter": null
+  }
+]
