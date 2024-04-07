@@ -1,0 +1,38 @@
+[
+    {
+        "Field": "name",
+        "Title": "Name",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "creator",
+        "Title": "Creator",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "comment",
+        "Title": "Comment",
+        "Format": null,
+        "filter": "text"
+    },
+    {
+        "Field": "creationTime",
+        "Title": "Creation Time",
+        "Format": "{0:D}",
+        "filter": "date"
+    },
+    {
+        "Field": "lastModifiedTime",
+        "Title": "Last Modification Time",
+        "Format": "{0:D}",
+        "filter": "date"
+    },
+    {
+        "Field": "e",
+        "Title": "E #",
+        "Format": null,
+        "filter": "numeric"
+    }
+]
